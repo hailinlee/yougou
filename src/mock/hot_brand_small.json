@@ -1,0 +1,28 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+            {"id":1, "img": "imgs/hot_brand_small/adidas507638809.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/adidasclassic507604745.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/adidasneo507638832.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/adidas507638809.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/bata507639265.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/belle507639379.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/converse506750560.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/gzh2.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/hushpuppies507610094.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/nike507646290.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/puma507639858.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/reebok534338687.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/senda506405009.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/skechers507606504.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/staccato507605520.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/tata544791364.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/vans506406901.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/adidas507638809.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/adidas507638809.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"},
+            {"id":1, "img": "imgs/hot_brand_small/hushpuppies507610094.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html","alt":"匡威"}
+		]
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+            {"id":"t1", 
+             "src":[ "/imgs/temai/huwai/100013182_01_mb.jpg","/imgs/temai/huwai/100113675_01_mb.jpg","/imgs/temai/huwai/100515904_01_mb.jpg","/imgs/temai/huwai/100656842_01_mb.jpg"],
+             "title":["The North Face乐斯菲斯专柜同款女子冲锋衣NF0A364979M1","Timberland添柏岚 专柜同款女子休闲靴（延续款） 23399","Timberland添柏岚 专柜同款男子休闲鞋A1JHF","The North Face乐斯菲斯 专柜同款女子徒步鞋 NF0A2Y8VTFQ1"],
+             "sale":["限时抢1559","新款bu发售","限时抢969","限时抢719"],
+             "price_current":["1559","1390","969","719"],
+             "price_old":["2398","1300","1499","1108"]
+
+            },
+            {"id":"t2", 
+               "src":["/imgs/temai/yundong/100113675_01_mb.jpg","/imgs/temai/yundong/100548704_01_mb.jpg","/imgs/temai/yundong/100914220_01_mb.jpg","/imgs/temai/yundong/100918820_01_mb.jpg"],
+                "title":["NIKE耐克女子W NIKE AIR MAX THEA ULTRA FK复刻鞋881175-001","adidas阿迪达斯新款男子运动系列T恤CD4864","NIKE耐克2018年新款男子AS M NSW TEE JDI SWOOSH NEWT恤707361-100","adidas阿迪休闲2018年中性系列休闲鞋BB9774"],
+                "sale":["限时抢1559","限时抢125","限时抢969","限时抢559"],
+                "price_current":["534","125","132","374"],
+                "price_old":["999","169","132","374"]
+   
+               },
+               {"id":"t3", 
+                   "src":["/imgs/temai/xiexue/100484776_01_mb.jpg","/imgs/temai/xiexue/100545981_01_mb.jpg","/imgs/temai/xiexue/100546112_01_mb.jpg","/imgs/temai/xiexue/100570967_01_mb.jpg"],
+                   "title":["The North Face乐斯菲斯专柜同款女子冲锋衣NF0A364979M1","Timberland添柏岚 专柜同款女子休闲靴（延续款） 23399","Timberland添柏岚 专柜同款男子休闲鞋A1JHF","The North Face乐斯菲斯 专柜同款女子徒步鞋 NF0A2Y8VTFQ1"],
+                   "sale":["限时抢1989","新款22发售","限时抢89","限时抢559"],
+                   "price_current":["838","899","348","1099"],
+                   "price_old":["838","800","348","1099"]
+      
+                  },
+                  {"id":"t4", 
+                      "src":["/imgs/temai/children/100113675_01_mb.jpg","/imgs/temai/children/100548704_01_mb.jpg","/imgs/temai/children/100914220_01_mb.jpg","/imgs/temai/children/100918820_01_mb.jpg"],
+                      "title":["adidas阿迪三叶草2018婴童STAN SMITH CF I休闲鞋BZ0520","adidas阿迪三叶草2018大童SUPERSTAR J 成人鹿晗同款休闲鞋C77154","adidas阿迪三叶草2018男大童J TRF TEE短袖T恤CF8546","NIKE耐克2018男中童B NSW TEE SWOOSH HAPPY短袖T恤894237-010"],
+                      "sale":["限时抢1459","新款99发售","限时抢56","限时抢559"],
+                      "price_current":["382","595","175","105"],
+                      "price_old":["520","699","229","199"]
+         
+                     },
+                     {"id":"t5", 
+                        "src":["/imgs/temai/bag/100479591_01_mb.jpg","/imgs/temai/bag/100479602_01_mb.jpg","/imgs/temai/bag/100485900_01_mb.jpg","/imgs/temai/bag/100522472_01_mb.jpg"],
+                        "title":["STACCATO/思加图秋季专柜同款白色人造革单肩女皮包X1695CN7","Teenmix/天美意秋季专柜同款红色人造革女包15C05CX5","Ist belle/百丽箱包冬季专柜同款黑色人造革手提包Y3104DX6","Teenmix/天美意冬季专柜同款黑色人造革女包X0940DX5"],
+                        "sale":["限时抢1559","新款33发售","限时抢969","限时抢719"],
+                        "price_current":["468","279","399","399"],
+                        "price_old":["998","499","399","699"]
+           
+                       }
+              
+		]
+	}
+}

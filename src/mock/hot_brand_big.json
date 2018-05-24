@@ -1,0 +1,12 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+			{"id":1, "img": "imgs/kuangwei.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":2, "img": "imgs/tennmix.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":3, "img": "imgs/tata.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":9995, "img": "imgs/nike.jpg", "url":"http://www.yougou.com/f-adidas-PTK-0-1.html"}
+		]
+	}
+}

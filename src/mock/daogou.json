@@ -1,0 +1,33 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"daogoutu" : [
+			{"id":1, "src": "/imgs/daogou/adidas507638809.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/adidasclassic507604745.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/adidasneo507638832.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/asics507610277.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/bata507639265.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/belle507639379.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/cat507636509.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/converse506750560.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/crocs507644176.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/gzh2.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/innet474093564.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/adidas507638809.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/adidas507638809.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/nike507646290.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/senda506405009 (1).jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/staccato507605520.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/tata544791364.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/tata544791364.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/adidas507638809.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/teenmix507609543.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/thenorthface507728112.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/timberland507609698 (1).jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/timberland507609698.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"},
+			{"id":1, "src": "/imgs/daogou/vans506406901.jpg","url":"http://www.yougou.com/f-adidas-PTK-0-1.html"}
+		]
+	
+		}
+	}

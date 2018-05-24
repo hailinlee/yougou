@@ -1,0 +1,40 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+            {"id":1, 
+             "title":"女鞋馆WOMEN'S SHOES",
+             "lei_bg":"../imgs/female_lei.jpg",
+             "xg_l_img":["imgs/nxg_l/bata507639265.jpg","imgs/nxg_l/bata507639265.jpg","imgs/nxg_l/belle507639379.jpg","imgs/nxg_l/tata544791364.jpg","imgs/nxg_l/hushpuppies507610094.jpg","imgs/nxg_l/innet474093564.jpg","imgs/nxg_l/joypeace468306549.jpg","imgs/nxg_l/staccato507605520.jpg","imgs/nxg_l/tata544791364.jpg","imgs/nxg_l/teenmix507609543.jpg"],
+             "xg_main":"imgs/nxg_main.jpg",
+             "xie_list":["imgs/nxg_r/7d3152bd789b4520840688c41a155a4e.jpg","imgs/nxg_r/8b5b559d6da04266b915676fa5d78ac8.jpg","imgs/nxg_r/70b238c615a346dab5fa2b71f1c0f12a.jpg","imgs/nxg_r/c7b361efa8fe46a780dabfc52141d4d6.jpg","imgs/nxg_r/d45ad0eb5bda45e784d1a21b74aee2da.jpg","imgs/nxg_r/f5108300810148258417db8e5ef3a4cd.jpg"]
+
+            },
+            {"id":2, 
+                "title":"男鞋馆MEN'S SHOES",
+                "lei_bg":"../imgs/male_lei.jpg",
+                "xg_l_img":["imgs/mxg_l/bata507639265.jpg","imgs/mxg_l/bata507639265.jpg","imgs/mxg_l/cat507636509.jpg","imgs/mxg_l/crocs507644176.jpg","imgs/mxg_l/fato2.jpg","imgs/mxg_l/hushpuppies507610094.jpg","imgs/mxg_l/male_l1.jpg","imgs/mxg_l/tata544791364.jpg","imgs/mxg_l/male_l3.jpg","imgs/mxg_l/male_l2.jpg"],
+                "xg_main":"imgs/male_main.jpg",
+                "xie_list":["imgs/mxg_r/9f881cc662ab461aa5d236e62d7ee586.jpg","imgs/mxg_r/45d45d348deb48c3be8c4d4651da92ef.jpg","imgs/mxg_r/157aa307c89d4360afa0eb5eb05431d3.jpg","imgs/mxg_r/715baa2409074c9989331373df3a41ae.jpg","imgs/mxg_r/2043744f45554552b40708796dc1635b.jpg","imgs/mxg_r/b3579aca8dee461c8395a01176d6b25b.jpg"]
+   
+               },
+               {"id":3, 
+                "title":"运动/户外馆SPORT/Outdoor Goods",
+                "lei_bg":"../imgs/yundong_lei.jpg",
+                "xg_l_img":["imgs/yundong_l/adidas506399348.jpg","imgs/yundong_l/adidasclassic507604745.jpg","imgs/yundong_l/adidasneo507638832.jpg","imgs/yundong_l/converse506750560.jpg","imgs/yundong_l/gzh2.jpg","imgs/yundong_l/nike507646290.jpg","imgs/yundong_l/puma507639858.jpg","imgs/yundong_l/reebok534338687.jpg","imgs/yundong_l/skechers507606504.jpg","imgs/yundong_l/vans506406901.jpg"],
+                "xg_main":"imgs/yundong_main.jpg",
+                "xie_list":["imgs/yundong_r/4220180517T133546.jpg","imgs/yundong_r/28020180517T133607.jpg","imgs/yundong_r/43520180517T133642.jpg","imgs/yundong_r/74620180517T133711.jpg","imgs/yundong_r/82920180517T133634.jpg","imgs/yundong_r/85620180517T133520.jpg"]
+   
+               },
+               {"id":4, 
+                "title":"孕婴童CHILDREN'S",
+                "lei_bg":"../imgs/yun_lei.jpg",
+                "xg_l_img":["imgs/yun_l/adidas507638809.jpg","imgs/yun_l/adidasclassic507604745.jpg","imgs/yun_l/belle507639379.jpg","imgs/yun_l/converse506750560.jpg","imgs/yun_l/crocs507644176.jpg","imgs/yun_l/gzh2.jpg","imgs/yun_l/hushpuppies507610094.jpg","imgs/yun_l/nike507646290.jpg","imgs/yun_l/puma507639858.jpg","imgs/yun_l/teenmix507609543.jpg"],
+                "xg_main":"imgs/yun_main.jpg",
+                "xie_list":["imgs/yun_r/1320180517T133842.jpg","imgs/yun_r/17120180517T133751.jpg","imgs/yun_r/50120180517T133830.jpg","imgs/yun_r/58820180517T133801.jpg","imgs/yun_r/71420180517T133738.jpg","imgs/yun_r/74920180517T133814.jpg"]
+   
+               }
+		]
+	}
+}

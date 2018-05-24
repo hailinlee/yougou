@@ -1,0 +1,16 @@
+// css初始化
+body,ul,ol,dl,dt,dd,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,button{margin:0;padding:0;border:0;font-family: "微软雅黑"}  
+ul,ol{list-style:none;} 
+select,input,img,select{vertical-align:middle;} 
+a{text-decoration:none;
+color: #666;
+font-size: 14px;} 
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.clr{
+    clear:both;
+}
